@@ -33,5 +33,5 @@ bootstrap()
 
 
 declare module 'minecraft-protocol' {
-  export const states: typeof States
+  export const state: typeof States
 }
